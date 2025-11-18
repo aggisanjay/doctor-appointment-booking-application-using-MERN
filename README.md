@@ -92,19 +92,19 @@ npm run dev
 <img width="1213" height="431" alt="image" src="https://github.com/user-attachments/assets/53e920d3-7d07-41df-86a3-81db63197b6c" />
 
 
-#Home
+# Home
 
 <img width="1209" height="1423" alt="image" src="https://github.com/user-attachments/assets/b05ef446-d09f-4c74-babc-6ae3a7bdbf15" />
 
-#All Doctors
+# All Doctors
 
 <img width="1165" height="1165" alt="image" src="https://github.com/user-attachments/assets/8633100a-8672-4019-9c37-2eafc3dc3dd5" />
 
-#Appointment booking
+# Appointment booking
 
 <img width="1216" height="506" alt="image" src="https://github.com/user-attachments/assets/b208c37c-b29f-4517-a61e-d8e6f7d2e246" />
 
-#My Appointments
+# My Appointments
 
 <img width="1158" height="236" alt="image" src="https://github.com/user-attachments/assets/7bbec679-b01e-4455-80ef-1ac3f8b88866" />
 
