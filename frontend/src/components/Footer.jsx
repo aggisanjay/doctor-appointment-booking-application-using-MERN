@@ -27,14 +27,14 @@ const Footer = () => {
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-2 text-gray-600'>
                 <li>+0-000-000-000</li>
-                <li>greatstackdev@gmail.com</li>
+                <li>sanjayaggi@gmail.com</li>
             </ul>
          </div>
       </div>
             {/* copyright */}
       <div>
         <hr/>
-        <p className='py-5 text-sm text-center'>Copyright 2025 @ Greatstack.dev - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2025 @ sanjayaggi - All Right Reserved.</p>
 
       </div>
     </div>
@@ -42,4 +42,5 @@ const Footer = () => {
 }
 
 export default Footer
+
 
